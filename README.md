@@ -14,7 +14,7 @@ pip install -r dependencies.txt
 ```
 
 ## Recommended Execution Order  
-(from **FINAL PROJECT**)  
+(from **OSTATECZNY PROJEKT**)  
 1. `Augmentation.ipynb`  
 2. `projekt_ML_eda_ostateczna.ipynb`  
 3. `sieci_neuronowe.ipynb`  
